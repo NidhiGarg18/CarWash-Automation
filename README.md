@@ -22,7 +22,7 @@ Step 5: Now Click to a Add Package in a Drager then in Package page we have to s
 Step 6:Then click to the Pricing and Payment then we can see the price table and scroll it to the right then click it to the buy Now which size of the vehicle we want to select.
 
 
-Step 7: Now click it to the Service and Request then we can click it to the select a quuality and select a vehicle.
+Step 7: Now click it to the Service and Request then we can click it to the select a quality and select a vehicle.
 
 
 Step 8: After completing the task then click it to the LogOut then we can directly move it to the login page.
